@@ -240,37 +240,37 @@ background: rgba(255,255,255,0.6);
 	margin-top: 20px;
 }
 /* Services Section */
-#accommodation {
+#location {
 	padding: 120px 0;
 	background: #fff;
 }
-#accommodation .service-media {
+#location .service-media {
 	margin: 10px;
 }
-#accommodation .service-media img {
+#location .service-media img {
 	position: relative;
 	width: 225px;
 	height: 225px;
 	border-radius: 50%;
 	border: 10px solid rgba(255,255,255,0.1);
 }
-#accommodation .service-desc {
+#location .service-desc {
 	margin: 10px 10px 40px;
 	text-align: center;
 }
-#accommodation h2 {
+#location h2 {
 	color: #222222;
 }
-#accommodation h3 {
+#location h3 {
 	color: #222222;
 	font-size: 24px;
 	font-weight: 400;
 	padding: 5px 0;
 }
-#accommodation p {
+#location p {
 	color: #222222;
 }
-#accommodation hr {
+#location hr {
 	background: rgba(34,34,34,0.6);
 }
 /* Portfolio Section */
