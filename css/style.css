@@ -538,6 +538,7 @@ ul.projects li {
 /*Pricing*/
 .pricing{
 	padding:70px 0;
+    background:#414141;
 }
 		.panel.price,
 		.panel.price>.panel-heading{
@@ -1019,7 +1020,7 @@ form#commentform textarea {
 /*FAQ*/
 #faq{
 	padding:70px 0;
-	background:#F7F7F7;
+	background:#222222;
 }
 
 .faqHeader {
@@ -1074,10 +1075,10 @@ form#commentform textarea {
 /*FAQ*/
 
 .navbar-toggle {
-  background-color: #353535;
+  background-color: #fff;
 }
 
 #contact-us{
-	background:#222222
+	background:#f5f5f5
 	padding:70px 0;
 }
