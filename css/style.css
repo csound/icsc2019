@@ -52,6 +52,9 @@ p.ex1 {
 p.ex2 {
     padding-bottom: 25px;
 }
+p.ex3 {
+    padding-top: 25px;
+}
 
 h3{
 	font-size:30px;
