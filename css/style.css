@@ -47,7 +47,10 @@ p{
 }
 
 p.ex1 {
-    padding-left: 50px;
+    padding-left: 25px;
+}
+p.ex2 {
+    padding-bottom: 25px;
 }
 
 h3{
