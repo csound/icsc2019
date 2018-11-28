@@ -46,6 +46,16 @@ p{
 	margin:8px 0;
 }
 
+p.ex1 {
+    padding-left: 25px;
+}
+p.ex2 {
+    padding-bottom: 25px;
+}
+p.ex3 {
+    padding-top: 25px;
+}
+
 h3{
 	font-size:30px;
 }
