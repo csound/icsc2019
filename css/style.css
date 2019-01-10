@@ -1088,6 +1088,14 @@ form#commentform textarea {
   background-color: #fff;
 }
 
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #000;
+}
+
+.navbar-inverse .navbar-toggle:hover .icon-bar, .navbar-inverse .navbar-toggle:focus .icon-bar {
+    background-color: #FFF;
+}
+
 #contact-us{
 	background:#f5f5f5
 	padding:70px 0;
