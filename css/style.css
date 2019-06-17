@@ -156,6 +156,15 @@ ul.navbar-nav li a{
 	padding:70px 0;
 }
 
+.circolare {
+  width: 300px; 
+  height: 300px;
+  border-radius:999em;    
+-moz-border-radius:999em;  
+-webkit-border-radius:999em; 
+  -o-border-radius: 999em;   
+}
+
 .btn.btn-read-more {
   background: #f9392b none repeat scroll 0 0;
   border-radius: 50px;
