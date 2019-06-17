@@ -159,12 +159,11 @@ ul.navbar-nav li a{
 .circolare {
   width: 300px; 
   height: 300px;
-	border-style: solid;
-	border-color: #000;
-  border-radius:999em;    
--moz-border-radius:999em;  
--webkit-border-radius:999em; 
-  -o-border-radius: 999em;   
+
+  border-radius:150px;    
+-moz-border-radius:150px; 
+-webkit-border-radius:150px; 
+  -o-border-radius: 150px;   
 }
 
 .btn.btn-read-more {
