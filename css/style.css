@@ -157,10 +157,9 @@ ul.navbar-nav li a{
 }
 
 .circolare {
-
-    -moz-border-radius: 180px;
-    -webkit-border-radius: 180px;
-    border-radius: 180px;
+	width:100px;
+	height:100px;
+	border-radius:50px;
  
 }
 
