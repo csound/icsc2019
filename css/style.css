@@ -1,4 +1,4 @@
-body{
+ body{
 	font-size:14px;
 	font-weight:300;
 	line-height:30px;
@@ -154,6 +154,13 @@ ul.navbar-nav li a{
 .site-padding{
 	background: #fff;
 	padding:70px 0;
+}
+
+.circolare {
+	width:200px;
+	height:200px;
+	border-radius:100px;
+ 
 }
 
 .btn.btn-read-more {
