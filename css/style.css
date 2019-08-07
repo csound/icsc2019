@@ -334,7 +334,7 @@ ul.navbar-nav li a{
 .entry .title {
     margin-bottom: .5em;
     float: left;
-    width: 31.78%;
+    width: 33%;
     padding-right: 30px;
     text-align: right;
     position: relative;
@@ -349,7 +349,7 @@ ul.navbar-nav li a{
     border-radius: 100%;
     border-color: red;
     top: 15%;
-    right: -8px;
+    right: 5px;
     z-index: 99;
 }
 .entry .title h3 {
@@ -373,6 +373,7 @@ ul.navbar-nav li a{
 .entry .body p:first-child {
     margin-top: 0;
     font-weight: 400;
+    font-size: 18px;
 }
 .entry .body ul {
     color: #000;
@@ -381,7 +382,7 @@ ul.navbar-nav li a{
 }
 .entry .body ul li:before {
     content: "–";
-    margin-right: .5em;
+    margin-right: 0.5em;
 }
 
 
