@@ -290,15 +290,14 @@
                 </div>
 
                 <div class="body">
-                    <p>WORKSHOP: Steven Yi</p>
+                    <p>WORKSHOP: Tarmo Johannes</p>
                     
                     <ul>
-                        <li>Web Csound</li>
+                        <li>CsoundQT and Csound HTML</li>
                         
                     </ul>
                     
-                </div>
-		    
+                </div>		    
                 
             </div>
             
@@ -499,32 +498,18 @@
                 <div class="title">
                     <h3>05:30 PM</h3>
                     
-                </div>
+                </div>			
 			
 		<div class="body">
-                    <p>WORKSHOP: Tarmo Johannes</p>
+                    <p>WORKSHOP: Steven Yi</p>
                     
                     <ul>
-                        <li>CsoundQT and Csound HTML</li>
-                        
-                    </ul>
-                                        
-                </div>
-			
-		<div class="body">
-                    <p>WORKSHOP: Steven Yi (Mochi Zamperoli, Palace) </p>
-                    
-                    <ul>
-                        <li>Live Coding</li>
+                        <li>Live Coding + Web Csound</li>
                         
                     </ul>
                     
-                    
-                    
                 </div>
 
-
-                
             </div>
 
             
